@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-title: false
+markdown: kramdown
+kramdown:
+   auto_ids: true
