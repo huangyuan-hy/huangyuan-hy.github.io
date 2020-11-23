@@ -6,7 +6,6 @@
       <p><b>Ph.D Candidate</b></p>
       <p><b>Faculty of Information Technology, Monash University</b></p>
       <p><b>Email: Jiachi.chen@monash.edu</b></p>
-      <p>
    </td>
     <td width="35%">
       <img src="/jiachi.jpeg" width="100%"> 
