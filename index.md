@@ -29,7 +29,7 @@
 
 * Understanding ethereum via graph analysis, *T Chen, Y Zhu, Z Li, **J Chen**, X Li, X Luo, X Lin, X Zhange*, [IEEE Conference on Computer Communications (INFOCOM'18), **CCF A, Best Paper Award**]
 
-* An adaptive gas cost mechanism for ethereum to defend against under-priced dos attacks, *T Chen, X Li, Y Wang, **J Chen**, Z Li, X Luo, MH Au, X Zhang*, [International Conference on Information Security Practice and Experience (ISPEC'17), **Best Paper award**]
+* An adaptive gas cost mechanism for ethereum to defend against under-priced dos attacks, *T Chen, X Li, Y Wang, **J Chen**, Z Li, X Luo, MH Au, X Zhang*, [International Conference on Information Security Practice and Experience (ISPEC'17), **Best Paper Award**]
 
 * Bug Reports for Desktop Software and Mobile Apps in GitHub: What's the Difference?, *T Zhang, **J Chen**, X Luo, T Li*, [IEEE Software'17]
 
