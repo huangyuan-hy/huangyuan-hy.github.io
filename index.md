@@ -9,7 +9,7 @@
 - 03/2019 ~ Present,  Ph.D Candidate, Faculty of Information Technology, Monash University
 
 ## Publications
-* Defining Smart Contract Defects on Ethereum, ***J Chen**, X Xia, D Lo, J Grundy, X Luo, T Chen*, [IEEE Transactions on Software Engineering (TSE'20), **CCF A**]
+* Defining Smart Contract Defects on Ethereum, _**J Chen**, X Xia, D Lo, J Grundy, X Luo, T Chen_, [IEEE Transactions on Software Engineering (TSE'20), **CCF A**]
 
 * Understanding Ethereum via Graph Analysis, *T Chen, Z Li, Y Zhu, **J Chen**, X Luo, JCS Lui, X Lin, X Zhang*, [ACM Transactions on Internet Technology (TOIT), CCF B]
 
