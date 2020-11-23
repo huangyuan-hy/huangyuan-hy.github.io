@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Jiachi Chen (陈嘉弛)
+Ph.D Candidate, Faculty of Information Technology, Monash University
 
-You can use the [editor on GitHub](https://github.com/Jiachi-Chen/Jiachi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Email: Jiachi.chen@monash.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second year Ph.D student with Australian Government RTP Scholarship at the Faculty of Information Technology, Monash University, Australia. I am honored and fortunated to be supervised supervised by Dr.Xin Xia and Prof.John Grundy. Prior to join Monash University, I spent two years at the Hong Kong Polytechnic University, under the supervision of Dr Daniel Xiapu Luo. My research interests include mining software repository, software security, and smart contract analysis.  
 
-### Markdown
+## Research Background
+- 10/2016 ~ 06/2018 Research Assistant in The Hong Kong Polytechnic University
+- 09/2018 ~ 02/2019 Research Assistant in Zhejiang University
+- 03/2019 ~ Present Ph.D Candidate, Faculty of Information Technology, Monash University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+* Defining Smart Contract Defects on Ethereum, ***J Chen**, X Xia, D Lo, J Grundy, X Luo, T Chen*, [IEEE Transactions on Software Engineering (TSE'20), **CCF A**]
 
-```markdown
-Syntax highlighted code block
+* Understanding Ethereum via Graph Analysis, *T Chen, Z Li, Y Zhu, **J Chen**, X Luo, JCS Lui, X Lin, X Zhang*, [ACM Transactions on Internet Technology (TOIT), CCF B]
 
-# Header 1
-## Header 2
-### Header 3
+* Finding Ethereum Smart Contracts Security Issues by Comparing History Versions, ***J Chen***, [ASE'20-SRC, **CCF A - Short Paper**]
 
-- Bulleted
-- List
+* GasChecker: Scalable Analysis for Discovering Gas-Inefficient Smart Contracts, *T Chen, Y Feng, Z Li, H Zhou, X Luo, X Li, X Xiao, **J Chen**, X Zhang*, [IEEE Transactions on Emerging Topics in Computing (TETC'20)]
 
-1. Numbered
-2. List
+* Where2Change: Change Request Localization for App Reviews, *T Zhang, **J Chen**, X Zhan, X Luo, D Lo, H Jiang*, [IEEE Transactions on Software Engineering (TSE'19), **CCF A**]
 
-**Bold** and _Italic_ and `Code` text
+* Dataether: Data exploration framework for ethereum, *T Chen, Z Li, Y Zhang, X Luo, A Chen, K Yang, B Hu, T Zhu, S Deng, T Hu, **J Chen**, X Zhang*, [International Conference on Distributed Computing Systems (ICDCS'19), CCF B]
 
-[Link](url) and ![Image](src)
-```
+* PPChecker: Towards Accessing the Trustworthiness of Android Apps' Privacy Policies, *L Yu, X Luo, **J Chen**, H Zhou, T Zhang, H Chang, HKN Leung*, [IEEE Transactions on Software Engineering (TSE'18), **CCF A**]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Localizing Function Errors in Mobile Apps with User Reviews, *L Yu, **J Chen**, H Zhou, X Luo, K Liu*, [IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'18), CCF B]
 
-### Jekyll Themes
+* Towards saving money in using smart contracts, *T Chen, Z Li, H Zhou, **J Chen**, X Luo, X Li, X Zhang*, [International Conference on Software Engineering: New Ideas and Emerging Technologies Results (ICSE'18-NIER), **CCF A - Short Paper**]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jiachi-Chen/Jiachi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Understanding ethereum via graph analysis, *T Chen, Y Zhu, Z Li, **J Chen**, X Li, X Luo, X Lin, X Zhange*, [IEEE Conference on Computer Communications (INFOCOM'18), **CCF A, Best Paper Award**]
 
-### Support or Contact
+* An adaptive gas cost mechanism for ethereum to defend against under-priced dos attacks, *T Chen, X Li, Y Wang, **J Chen**, Z Li, X Luo, MH Au, X Zhang*, [International Conference on Information Security Practice and Experience (ISPEC'17), **Best Paper award**]
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Bug Reports for Desktop Software and Mobile Apps in GitHub: What's the Difference?, *T Zhang, **J Chen**, X Luo, T Li*, [IEEE Software'17]
+
+* Bug report enrichment with application of automated fixer recommendation, *T Zhang, **J Chen**, H Jiang, X Luo, X Xia*, [IEEE/ACM 25th International Conference on Program Comprehension (ICPC'17), CCF B]
+
+* Towards more accurate severity prediction and fixer recommendation of software bugs, *T Zhang, **J Chen**, G Yang, B Lee, X Luo*, [Journal of Systems and Software (JSS'16), CCF B]
+
+
+## Academic Services
+* Paper Review: Journal of Systems and Software (JSS), CCF B
+* Paper Review: Blockchain: Research and Applications
+
+## Selected Awards:
+* Best Paper Award, 40th IEEE International Conference on Computer Communications (INFOCOM)
+*	Best Paper Award, 13th International Conference on Information Security Practice and Experience (ISPEC)
+
+
+
+
+
