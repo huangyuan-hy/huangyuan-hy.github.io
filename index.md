@@ -1,8 +1,18 @@
-## Jiachi Chen (陈嘉弛)
 
-Ph.D Candidate, Faculty of Information Technology, Monash University
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Jiachi Chen(陈嘉弛)</h1>
+      <p><b>Ph.D Candidate</b></p>
+      <p><b>Faculty of Information Technology, Monash University</b></p>
+      <p><b>Email: Jiachi.chen@monash.edu</b></p>
+    </td>
+    <td width="25%">
+      <img src="/jiachi.jpeg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-Email: Jiachi.chen@monash.edu
 
 I am a second year Ph.D student with Australian Government RTP Scholarship at the Faculty of Information Technology, Monash University, Australia. I am honored and fortunate to be supervised by Dr.Xin Xia and Prof.John Grundy. Prior to joining Monash University, I spent two years at the Hong Kong Polytechnic University, under the supervision of Dr. Daniel Xiapu Luo. My research interests include mining software repository, software security, and smart contract analysis.  
 
